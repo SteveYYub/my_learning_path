@@ -1,6 +1,8 @@
 from PySide6 import QtWidgets, QtCore, QtGui
 import time
 
+# second submission
+
 # Multithreading example using QThreadPool to ignore blocking GUI operations
 class WorkerSignals(QtCore.QObject):
 
